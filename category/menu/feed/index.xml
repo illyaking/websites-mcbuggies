@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Menu &#8211; McBuggies</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Good Food Good People</description>
+	<lastBuildDate>Fri, 22 Dec 2017 22:10:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>./../../../wp-content/blogs.dir/10/files/sites/16/2017/12/cropped-McBuggies-Mascot-02-2-32x32.jpg</url>
+	<title>Menu &#8211; McBuggies</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Ponerinae</title>
+		<link>./../../../2017/12/22/the-ponerinae/index.html</link>
+		
+		<dc:creator><![CDATA[Illya King]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2017 22:10:27 +0000</pubDate>
+				<category><![CDATA[Menu]]></category>
+		<guid isPermaLink="false">https://rose-city.net/mcbuggies/?p=163</guid>
+
+					<description><![CDATA[A free-range patty with no added hormones, steroids, or antibiotics, topped with American cheese products and crispy onion straws.]]></description>
+										<content:encoded><![CDATA[<p>A free-range patty with no added hormones, steroids, or antibiotics, topped with American cheese products and crispy onion straws.</p>
+<p><a href="./../../../2017/12/22/the-ponerinae/index.html" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Dolichoderinae</title>
+		<link>./../../../2017/12/03/the-dolichoderinae/index.html</link>
+		
+		<dc:creator><![CDATA[Illya King]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2017 09:54:21 +0000</pubDate>
+				<category><![CDATA[Menu]]></category>
+		<guid isPermaLink="false">https://rose-city.net/mcbuggies/?p=117</guid>
+
+					<description><![CDATA[Our junior burger. It&#8217;s good, made by good people. Now approved for Human trials.]]></description>
+										<content:encoded><![CDATA[<p>Our junior burger. It&rsquo;s good, made by good people. Now approved for Human trials.</p>
+<p><a href="./../../../2017/12/03/the-dolichoderinae/index.html" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Myrmicinae</title>
+		<link>./../../../2017/12/03/the-myrmicinae/index.html</link>
+		
+		<dc:creator><![CDATA[Illya King]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2017 09:14:17 +0000</pubDate>
+				<category><![CDATA[Menu]]></category>
+		<guid isPermaLink="false">https://rose-city.net/mcbuggies/?p=94</guid>
+
+					<description><![CDATA[﻿The Greatest Burger in Rose City. Pack full of protein, topped with lettuce, tomato, and pickles. This burger is 100% organic and animal cruelty free.]]></description>
+										<content:encoded><![CDATA[<p>﻿The Greatest Burger in Rose City. Pack full of protein, topped with lettuce, tomato, and pickles. This burger is 100% organic and animal cruelty free.</p>
+<p><a href="./../../../2017/12/03/the-myrmicinae/index.html" rel="nofollow">Source</a></p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
